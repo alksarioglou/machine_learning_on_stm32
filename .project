@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>MFCC_TFLite</name>
+	<name>Project</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -29,6 +29,5 @@
 		<nature>com.st.stm32cube.ide.mcu.MCURootProjectNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
-		<nature>org.eclipse.cdt.core.ccnature</nature>
 	</natures>
 </projectDescription>
